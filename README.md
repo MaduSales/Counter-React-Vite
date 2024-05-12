@@ -13,7 +13,7 @@ Imagem do projeto: https://github.com/MaduSales/Counter-React-Vite/assets/166547
 Projeto feito com HTML, CSS, JavaScript, React.JS e Git de uma página simples de um contador que permite o usuário de aumentar e diminuir um valor, com botões de incremento e decremento. 
 <br>
 <br>
-<br
+<br>
 Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 <br>
 <br>

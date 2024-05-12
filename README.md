@@ -10,7 +10,7 @@ Imagem do projeto: https://github.com/MaduSales/Counter-React-Vite/assets/166547
 
 <br>
 
-Projeto feito com HTML, CSS, JavaScript, React.JS e Git de uma página simples que cria listas de afazeres com diversos itens ao escrever na barra e clicar em "Adicionar". Faz a remoção do item ao clicar em "Remover" ao lado de cada item adicionado.
+Projeto feito com HTML, CSS, JavaScript, React.JS e Git de uma página simples de um contador que permite o usuário de aumentar e diminuir um valor, com botões de incremento e decremento. 
 <br>
 <br>
 <br
